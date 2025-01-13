@@ -1,0 +1,3 @@
+[submodule "amiq_ectb"]
+	path = amiq_ectb
+	url = https://github.com/amiq-consulting/amiq_ectb.git
