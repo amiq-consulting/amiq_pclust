@@ -1,0 +1,11 @@
+amiq23_md/scripts/development/dummy_sankey.py
+amiq23_md/scripts/development/iframe_figures/*
+amiq23_md/scripts/iframe_figures
+amiq23_md/scripts/numeric.csv
+amiq23_md/scripts/string.csv
+amiq23_md/sim/*
+amiq23_md/tb/tc/plusargs
+*.xml
+*.log
+venv
+.idea
